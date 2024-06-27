@@ -14,6 +14,6 @@ public class Testing {
     }
 
     public void secondPush() {
-        System.out.println("Second push321");
+        System.out.println("Second push32100");
     }
 }
