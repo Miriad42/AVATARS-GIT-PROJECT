@@ -12,4 +12,8 @@ public class Testing {
     public void firstPush() {
         System.out.println("First push");
     }
+
+    public void secondPush() {
+        System.out.println("Second push");
+    }
 }
