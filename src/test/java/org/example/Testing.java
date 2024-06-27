@@ -10,7 +10,7 @@ public class Testing {
     }
 
     public void firstPush() {
-        System.out.println("First push");
+        System.out.println("First push123");
     }
 
     public void secondPush() {
