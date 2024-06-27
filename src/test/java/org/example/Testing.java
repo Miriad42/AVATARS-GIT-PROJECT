@@ -8,12 +8,4 @@ public class Testing {
         System.out.println("Soon as possible");
         System.out.println("And I will because I can");
     }
-
-    public void firstPush() {
-        System.out.println("First push123");
-    }
-
-    public void secondPush() {
-        System.out.println("Second push32100");
-    }
 }
